@@ -43,12 +43,3 @@ $ cd C:\Users\{username}\Downloads
 $ node flydrone.js
 ```
 **Make sure the libraries for ar-drone and nodejs are installed and configured properly.**
-### Team
-
-* **Priya Rao** <einzig.piya01@gmail.com>
-* **Ankita Verma** <ankitavermaom1995@gmail.com>
-* **Likith Reddy** <likith012@gmail.com>
-* **Akshay Khokhar** <khokharakshay42@gmail.com>
-
-### Maintainer
-* **Saumya Kumaar Saksena** <kumaar324@gmail.com>
