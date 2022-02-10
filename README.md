@@ -28,8 +28,7 @@ $ npm install ar-drone
 ```
 ***
 ### Setup
-Once all the libraries are installed, connect your EMOTIV EPOC+ headset to the Xavier Control Panel and make sure all the signal connections are green. ![Image of Signal Connection](https://bytebucket.org/bci_iisc/bci/raw/589d8b844dcc783d6c60fd8abd20408040744638/bci.png)
-
+Once all the libraries are installed, connect your EMOTIV EPOC+ headset to the Xavier Control Panel and make sure all the signal connections are green. 
 Once this is done, configure OpenVibe-LSL linkage to access the raw data from the EPOC+ headset. An easier way is to use EmoKey Software associated with the Control Panel and associate key-press events with pushing/pulling of the virtual box.
 
 Once the training of the user is done and the EmoKey is configured, run the **keypress.js** by chaning into that directory. 
